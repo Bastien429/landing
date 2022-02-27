@@ -1,0 +1,13 @@
+.btn-green{
+	background-color:#A3DA8D;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white ;
+    font-weight: bold;
+    text-color: white;
+}
+
+a{
+	text-decoration: none;
+	font-family:'Roboto',sans-serif;
+}
